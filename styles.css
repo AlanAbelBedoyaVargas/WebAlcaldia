@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #4caf50;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+#map-container {
+  margin: 20px;
+}
+
+#map {
+  border: 2px solid #ddd;
+}
